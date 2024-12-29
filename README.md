@@ -16,7 +16,7 @@ El análisis se realizó mediante métricas como el mAP y una evaluación cualit
 
 ## Resultados
 
-### Mean Average Precision (mAP)
+### Resultados Cuantitativos: Mean Average Precision (mAP)
 
 La siguiente tabla muestra el desempeño promedio (*mean Average Precision*, mAP) de cada estrategia en la categoría *easy* de los datasets **ROxford** y **RParis**:
 
