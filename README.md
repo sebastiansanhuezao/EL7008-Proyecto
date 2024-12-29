@@ -27,7 +27,7 @@ La siguiente tabla muestra el desempeño promedio (*mean Average Precision*, mAP
 | ResNet50 + R-MAC + k-reciprocal | **59.79%** | **81.87%** |
 
 #### **Análisis:** 
-- La estrategia más efectiva combinó características extraídas con **ResNet50**, una capa de **R-MAC Pooling** [[6]](#referencias), y la técnica de re-ranking **k-reciprocal encoding**.
+- La estrategia más efectiva combinó características extraídas con **ResNet50**, una capa de **R-MAC Pooling** [[6]](#referencias), y la técnica de re-ranking **k-reciprocal encoding** [[5]](#referencias).
 - El uso de estas técnicas mejoró significativamente el rendimiento sobre las estrategias más simples como BoVW.
 
 ### Resultados Cualitativos: Evaluación de Consultas
