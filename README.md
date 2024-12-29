@@ -2,6 +2,19 @@
 
 Este repositorio contiene el proyecto final para el curso **EL7008 - Procesamiento Avanzado de Imágenes** de la **Universidad de Chile**. El proyecto evaluó distintas estrategias para la tarea de **Recuperación de Imágenes (Image Retrieval)** utilizando los datasets **ROxford** y **RParis** [[1]](#referencias). Estos datasets fueron obtenidos del [repositorio oficial](https://github.com/filipradenovic/revisitop) del paper que los introdujo.
 
+## Requisitos
+
+Para instalar las dependencias necesarias para este proyecto, sigue estos pasos:
+
+1. Asegúrate de tener instalado [Python 3.7+](https://www.python.org/downloads/).
+2. Ejecuta el siguiente comando en la terminal para instalar los paquetes requeridos desde el archivo `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+Este comando instalará todas las librerías necesarias, incluyendo las dependencias de frameworks como PyTorch y Scikit-learn.
+
 ## Metodología
 Se evaluaron tres estrategias principales para resolver la tarea de Recuperación de Imágenes:
 
