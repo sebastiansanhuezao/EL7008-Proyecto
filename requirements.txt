@@ -1,0 +1,10 @@
+opencv-python-headless
+joblib
+numpy
+pillow
+scipy
+scikit-learn
+matplotlib
+torch
+torchvision
+pyflann-py3
